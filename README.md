@@ -1,6 +1,6 @@
 
 <p align="center">
-  <em>Full-Stack Developer | TypeScript, Next.js, ReactJS | Cyberpunk Hacker Vibes</em>
+  <em>ّFront-end Developer | TypeScript , Next.js , ReactJS </em>
 </p>
 
 ---
