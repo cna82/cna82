@@ -1,19 +1,19 @@
 <div align="center">
 
-<h1 style="font-size:2.6rem;">👋 Hi, I'm <span style="color:#38B2AC;">cna</span></h1>
+<h1 style="font-size:2.6rem;">👋 Hi, I'm <span style="color:#38B2AC;">Sina</span></h1>
 
 <p style="font-size:1.3rem; max-width:800px;">
-Front-end & Full-stack Developer <br/>
-TypeScript • Next.js • React • Tailwind • Node • Python • Django
+Front-end Developer <br/>
+TypeScript • Next.js • React • Tailwind • Node 
 </p>
 
 <img
   src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif"
-  width="320"
+  width="350"
   style="border-radius:12px; margin-top:20px;"
 />
 
-<p style="font-size:1.5rem; font-weight:600; margin-top:20px;">
+<p style="font-size:2.5rem; font-weight:600; margin-top:20px;">
 We work in the dark to serve the light 💻
 </p>
 
