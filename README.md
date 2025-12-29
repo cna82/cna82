@@ -1,13 +1,13 @@
 <div align="center">
 
-<table>
+<table style="width:100%; max-width:900px;">
 <tr>
-<td align="center">
-  <strong>Front-end & Full-stack Developer</strong><br/>
-  TypeScript | Next.js | ReactJS | Python | Django | NodeJS
+<td align="center" style="vertical-align:middle;">
+  <strong style="font-size:1.2rem;">Front-end Developer</strong><br/>
+  <span> TypeScript | Next.js | ReactJS | TailwindCSS | NodeJS | Django </span>
 </td>
-<td align="center">
-  <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="250" alt="Programming GIF"/>
+<td align="center" style="vertical-align:middle;">
+  <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" alt="Programming" style="max-width:100%; height:auto; border-radius:10px;"/>
 </td>
 </tr>
 </table>
@@ -41,8 +41,8 @@
 
 ### 📫 Contact via
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" style="margin:8px"/></a>
-  <a href="https://www.instagram.com/yourprofile/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="45" style="margin:8px"/></a>
-  <a href="https://t.me/yourprofile" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" alt="Telegram" width="45" style="margin:8px"/></a>
-  <a href="mailto:yourmail@gmail.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="45" style="margin:8px"/></a>
+  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="45" style="margin:8px"/></a>
+  <a href="https://www.instagram.com/yourprofile/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="45" style="margin:8px"/></a>
+  <a href="https://t.me/yourprofile" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" width="45" style="margin:8px"/></a>
+  <a href="mailto:yourmail@gmail.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="45" style="margin:8px"/></a>
 </p>
