@@ -4,7 +4,7 @@
 
 <p style="font-size:1.3rem; max-width:800px;">
 Front-end Developer <br/>
-TypeScript • Next.js • React • Tailwind • Node 
+TypeScript • Next.js • React • Tailwind • Node JS
 </p>
 
 <img
