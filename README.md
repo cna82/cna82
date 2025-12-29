@@ -43,16 +43,16 @@ We work in the dark to serve the light 💻
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile/">
+  <a href="https://www.linkedin.com/in/sina-rahimi-459454321/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/yourprofile/">
+  <a href="https://www.instagram.com/cna_.rh/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://t.me/yourprofile">
+  <a href="https://t.me/salam_amooie">
     <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:sinarahimi1382@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -60,5 +60,5 @@ We work in the dark to serve the light 💻
 ---
 
 <p align="center" style="font-size:1.1rem;">
-⭐️ If you like my work, consider starring the repositories ⭐️
+⭐️let's start our journy⭐️
 </p>
