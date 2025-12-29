@@ -1,12 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="350"/>
-</p>
-
-<h1 align="center">
-  <code>┌─┐┬ ┬┌─┐┬  ┬  ┌─┐┌─┐</code><br/>
-  <code>├─┘│ │├┤ │  │  └─┐└─┐</code><br/>
-  <code>┴  └─┘└─┘┴─┘┴─┘└─┘└─┘</code>
-</h1>
 
 <p align="center">
   <em>Full-Stack Developer | TypeScript, Next.js, ReactJS | Cyberpunk Hacker Vibes</em>
