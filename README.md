@@ -6,7 +6,7 @@
 <table style="width:100%; max-width:900px;">
 <tr>
 <td align="center" style="vertical-align:middle;">
-  <p style="font-size:3rem;">Building sleek and modern web apps with passion 💻</p>
+  <p style="font-size:3rem;">We work in the dark to serve the light 💻</p>
 </td>
 <td align="center" style="vertical-align:middle;">
   <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" alt="Programming GIF" style="max-width:100%; height:auto; border-radius:10px;"/>
