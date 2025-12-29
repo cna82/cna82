@@ -1,7 +1,8 @@
 
-<p align="center">
-  <em>ّFront-end Developer | TypeScript , Next.js , ReactJS </em>
-</p>
+<div align="center">
+  <strong>ّFront-end Developer | TypeScript , Next.js , ReactJS </strong>
+    <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="450"/>
+</div>
 
 ---
 
@@ -23,9 +24,7 @@
 ---
 
 ### 🔥 Cyber Vibes
-<p align="center">
-  <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="450"/>
-</p>
+
 
 ---
 
